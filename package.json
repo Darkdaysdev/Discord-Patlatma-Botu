@@ -1,0 +1,24 @@
+{
+  "name": "sex",
+  "version": "1.0.0",
+  "description": "ana sikici",
+  "main": "darkdays.js",
+  "scripts": {
+    "start": "node darkdays.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "fs": "^0.0.2",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sex",
+    "anne aglatan"
+  ],
+  "author": "baci siken"
+}
