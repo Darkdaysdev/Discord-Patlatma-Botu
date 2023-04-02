@@ -10,7 +10,7 @@ client.ayarlar = {
 "token": "",
 "kanalisim": "Soull Sikti",
 "rolisim": "Darkdays Sikti",
-"kanalyazi": "Soull Sikti",
+"kanalyazi": "@everyone Soull Sikti",
 "banyazi": "Darkdays Sikti",  
 "dmyazi": "discord.gg/2018",  
 "sunucuisim": "Darkdays Soull Hava Yolları",  
