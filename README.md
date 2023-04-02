@@ -17,6 +17,12 @@ client.ayarlar = {
 "sunucupp": "https://images-ext-2.discordapp.net/external/Fl0UV0xltCp6g_vDIlCBcql2qmeIjDEF4ujkYEzmaxk/%3Fv%3D1/https/cdn.discordapp.com/emojis/1091834106616221786.png",
 }
   ```
+  
+
+https://user-images.githubusercontent.com/110347990/229352648-b614f4f3-6e3b-4d91-a5a9-73389338b09b.mp4
+
+ 
+ 
 İletişim:
 
 **Darkdays#2018** & **Soull#2018**
