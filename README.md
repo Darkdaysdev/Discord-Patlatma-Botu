@@ -1,4 +1,4 @@
-Sizlere Discord Sunucularını **Bot Token** ile patlatabileceğiniz bir altyapı paylaşacağım **25 starda**
+Sizlere Discord Sunucularını **Bot Token** ile patlatabileceğiniz bir altyapı paylaştım
 
 **Özellikler:** 
 **Kanal Silme Rol Silme Rol Açma Kanal Açma Üye Banlama Üyelere Dm Atma**
